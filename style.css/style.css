@@ -1,0 +1,12 @@
+: :root {
+  --h1-size: 45px;
+  --h2-size: 45px;
+  --h3-size: 45px;
+  --body-font: "poppins", sans-serif;
+  --text-color: rgba(10, 10, 61, 0.842);
+}
+
+.h1 {
+  font-size: var(--h1-size);
+  font-family: var(--body-font);
+}
